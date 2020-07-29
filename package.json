@@ -1,0 +1,17 @@
+{
+  "name": "node-database-connections",
+  "version": "1.0.0",
+  "description": "Examples of database connection using Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "rulyox",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-redshift": "^0.1.5",
+    "pg": "^8.3.0",
+    "sqlite3": "^5.0.0"
+  }
+}
